@@ -8,7 +8,7 @@
 
 The Mann vs. Machine announcer voice line for knocking the bomb carrier back can play in regular CTF when a TFBot carrying the flag re-routes its path to the capture zone.
 
-This can be reproduced by airblasting a bot carrying the bomb into the moat on 2fort.
+This can be reproduced by airblasting a bot carrying the flag into the moat on 2fort.
 
 ## Suggested fix
 
